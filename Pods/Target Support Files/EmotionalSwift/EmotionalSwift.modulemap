@@ -1,0 +1,6 @@
+framework module EmotionalSwift {
+  umbrella header "EmotionalSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

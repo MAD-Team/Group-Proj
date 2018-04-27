@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "643a0f03b4bd5969cdee0d5cf89b6113"
+build_time: [545997617, 369715000]
+inputs:
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/AFError.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/Alamofire.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/DispatchQueue+Alamofire.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/MultipartFormData.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/NetworkReachabilityManager.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/Notifications.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/ParameterEncoding.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/Request.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/Response.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/ResponseSerialization.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/Result.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/ServerTrustPolicy.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/SessionDelegate.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/SessionManager.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/TaskDelegate.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/Timeline.swift": [545997615, 0]
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/checkouts/Alamofire.git-6801331143877184500/Source/Validation.swift": [545997615, 0]

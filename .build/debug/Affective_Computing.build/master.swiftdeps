@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "2ec55335427ecb9532068aa04698833a"
+build_time: [545997624, 433778000]
+inputs:
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/Sources/Affective_Computing.swift": [545997448, 0]

@@ -1,0 +1,6 @@
+framework module Pods_Affective_ComputingUITests {
+  umbrella header "Pods-Affective ComputingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

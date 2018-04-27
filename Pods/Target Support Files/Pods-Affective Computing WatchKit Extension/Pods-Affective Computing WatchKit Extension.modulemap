@@ -1,0 +1,6 @@
+framework module Pods_Affective_Computing_WatchKit_Extension {
+  umbrella header "Pods-Affective Computing WatchKit Extension-umbrella.h"
+
+  export *
+  module * { export * }
+}

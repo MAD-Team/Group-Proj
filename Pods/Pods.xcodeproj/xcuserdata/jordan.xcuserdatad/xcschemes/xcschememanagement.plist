@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>EmotionalSwift.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Pods-Affective Computing WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Pods-Affective Computing WatchKit Extension.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>Pods-Affective Computing.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Pods-Affective ComputingTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>Pods-Affective ComputingUITests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4E0B8C070597A1416E7A5417BC35A116</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A3C31D2A8DB5B041C8B858D8315C398C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C49E292AD92F5501BB74A521D0773051</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D26C4856A95E7C32906CC62C53F6745C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F29537F582557613D27B08B8068EC109</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F40D4AA52EA7C94CFC918FA66E3212FB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

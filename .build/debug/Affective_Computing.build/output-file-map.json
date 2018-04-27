@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/debug/Affective_Computing.build/master.swiftdeps"
+  },
+  "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/Sources/Affective_Computing.swift": {
+    "dependencies": "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/debug/Affective_Computing.build/Affective_Computing.d",
+    "object": "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/debug/Affective_Computing.build/Affective_Computing.swift.o",
+    "swiftmodule": "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/debug/Affective_Computing.build/Affective_Computing~partial.swiftmodule",
+    "swift-dependencies": "/Users/alannawalton/Desktop/Affective Computing/Affective Computing/.build/debug/Affective_Computing.build/Affective_Computing.swiftdeps"
+  }
+}
